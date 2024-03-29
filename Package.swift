@@ -42,7 +42,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBNeurobeautyMakeup",
             url: "None",
-            checksum: "19e089918a8ea4556e4ba04999e67becbc32bfde130ed5e039adde7414a0bc68"
+            checksum: "f5798b9ae068909807149b591651bf6510e37315c0e58cf2e980ed49013d8ed3"
         ),
         .target(
             name: "BNBNeurobeautyMakeup_BNBSdkCore",
